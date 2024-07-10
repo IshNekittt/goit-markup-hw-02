@@ -57,6 +57,7 @@ ul {
 
 .solutions-section {
   background-color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .solutions-section-header {
