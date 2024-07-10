@@ -69,6 +69,7 @@ ul {
 }
 
 .solutions-section-button {
+  font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -86,7 +87,7 @@ ul {
 .section-header {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -96,6 +97,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .card-description {
@@ -104,4 +106,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.card-background {
+  background-color: #fff;
+}
+
+.team-section {
+  background: #f4f4fd;
 }
