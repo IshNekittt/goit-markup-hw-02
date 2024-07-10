@@ -22,7 +22,7 @@ ul {
   color: #4d5ae5;
 }
 
-.logo-accent {
+header .logo-accent {
   color: #2e2f42;
 }
 
@@ -121,6 +121,10 @@ ul {
 
 .footer-section {
   background: #2e2f42;
+}
+
+.footer-section .logo-accent {
+  color: #f4f4fd;
 }
 
 .footer-section-paragraph {
